@@ -1,2 +1,2 @@
 # Beyesian
-贝叶斯与遗传学
+Beyesian and genetics
